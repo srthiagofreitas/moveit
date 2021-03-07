@@ -9,5 +9,5 @@ yarn create next-app moveit-next
 1 - Alterar os arquivos .js para .tsx
 2 - yarn add typescript @types/react @types/react-dom @types/node -D
 
-parado na aula 00:36:13
+Aula 3 finalizada
 
